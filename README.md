@@ -28,7 +28,7 @@ In completeing this assignment I improved the existing code by: removing non sem
 
 ## Usage
 
-When you click on the link: it will take you to the web application for Horiseon Digital Marketing Page. Across the top of the page is the **navigation bar** with active links to information contained in the body of the web application. 
+When you click on the link: https://shyenaia.github.io/week-1-challenge/ it will take you to the web application for Horiseon Digital Marketing. Across the top of the page is the **navigation bar** with active links to information contained in the body of the web application. 
 
 ![alt text](assets/images/horiseon-screenshot-1.png)
 
